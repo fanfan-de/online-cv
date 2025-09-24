@@ -65,59 +65,41 @@ sidebar:
   title: 战斗策划-怪物向
   summary: |
     测试文本
+
+    
 education:
   title: 教育
   info:
-  - degree: 清华大学深圳国际研究生院
-    university: University of London
-    time: 2011 - 2012
+  - degree: 硕士
+    university: 清华大学深圳国际研究生院
+    time: 2022-2025
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+            no detail
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: 本科
+    university: 华东理工大学
+    time: 2015-2021
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+      no detail
         - Bullet point
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: 经历
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: 战斗策划实习-怪物向
+    time: 2024.10-2025.3
+    company: Teamelo Game
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      担任战斗策划，负责动作肉鸽游戏的怪物制作
         - Bullet point
         - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: 战斗策划 -大战略游戏战斗模块设计
+    time: 2025.5-2025.9
+    company: 巨阵无限
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      战斗模块设计
         - Bullet point
         - Bullet point
   - role: UI Developer
