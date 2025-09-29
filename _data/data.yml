@@ -93,8 +93,9 @@ experiences:
     company: Teamelo Game
     details: |
       担任战斗策划，负责动作肉鸽游戏的怪物制作
-        - Bullet point
-        - Bullet point
+        - 执行工作包括 怪物动作/特效需求文档，设计文档的撰写；美术上游制作的跟进；
+        - 怪物AI的设计，制作，实装；
+        - Unity中战斗技能编辑器功能开发（根据设计需求，实现新功能）；战斗编辑器可用性优化；
   - role: 战斗策划 -大战略游戏战斗模块设计
     time: 2025.5-2025.9
     company: 巨阵无限
